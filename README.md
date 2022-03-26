@@ -1,11 +1,10 @@
-## Under condruction
-
 # pyNLP
 Natural Language Processing with python
 
 **Πηγές:**
 - [ ] [autocomplete](https://pypi.org/project/autocomplete/)
 - [ ] ...
+
 ---
 
 ## Εξάσκηση 1
@@ -43,7 +42,7 @@ Natural Language Processing with python
 ---
 
 ## Εξάσκηση 6
-Εκτελέστε τον κώδικα που θα βρείτε στο [](/source_code/)
+Εκτελέστε τον κώδικα που θα βρείτε στο [NLP_sentiment_analysis.py](/source_code/NLP_sentiment_analysis.py)
 
 ---
 
