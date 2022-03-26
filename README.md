@@ -16,4 +16,16 @@ Natural Language Processing with python
 
 ---
 
+## Εξάσκηση 2
+Εκτελέστε τον κώδικα που θα βρείτε στο [NLP_text_correction.py](/source_code/NLP_text_correction.py)
+
+
+---
+
+## Εξάσκηση 3
+Εκτελέστε τον κώδικα που θα βρείτε στο [NLP_translation_mult.py](/source_code/NLP_translation_mult.py)
+
+
+---
+
 Το αποθετήριο αξιοποιεί το υλικό που έχει δημιουργηθεί από την εκπαιδευτική ομάδα του [Ιωάννη Καρύδη](https://github.com/ioanniskarydis).
