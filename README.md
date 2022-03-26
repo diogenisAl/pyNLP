@@ -2,7 +2,10 @@
 
 # pyNLP
 Natural Language Processing with python
+---
 
+## Εξάσκηση 1
+Εκτελέστε τον κώδικα που θα βρείτε στο [NLP_autocomplete_words.py](/source_code/NLP_autocomplete_words.py).
 
 
 ---
