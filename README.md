@@ -5,6 +5,7 @@ Natural Language Processing with python
 
 **Πηγές:**
 - [ ] [autocomplete](https://pypi.org/project/autocomplete/)
+- [ ] ...
 ---
 
 ## Εξάσκηση 1
@@ -41,6 +42,10 @@ Natural Language Processing with python
 
 ---
 
+## Εξάσκηση 6
+Εκτελέστε τον κώδικα που θα βρείτε στο [](/source_code/)
+
+---
 
 
 Το αποθετήριο αξιοποιεί το υλικό που έχει δημιουργηθεί από την εκπαιδευτική ομάδα του [Ιωάννη Καρύδη](https://github.com/ioanniskarydis).
