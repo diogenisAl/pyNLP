@@ -3,7 +3,7 @@
 # pyNLP
 Natural Language Processing with python
 
-Πηγές:
+**Πηγές:**
 - [ ] [autocomplete](https://pypi.org/project/autocomplete/)
 ---
 
