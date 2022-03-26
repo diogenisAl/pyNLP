@@ -35,5 +35,10 @@ Natural Language Processing with python
 
 ---
 
+## Εξάσκηση 4
+Εκτελέστε τον κώδικα που θα βρείτε στο [NLP_Synonyms_and_Antonyms.py](/source_code/NLP_Synonyms_and_Antonyms.py)
+
+
+---
 
 Το αποθετήριο αξιοποιεί το υλικό που έχει δημιουργηθεί από την εκπαιδευτική ομάδα του [Ιωάννη Καρύδη](https://github.com/ioanniskarydis).
