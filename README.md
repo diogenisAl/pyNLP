@@ -3,7 +3,10 @@ Natural Language Processing with python
 
 **Πηγές:**
 - [ ] [autocomplete](https://pypi.org/project/autocomplete/)
-- [ ] ...
+- [ ] [Textblob](https://textblob.readthedocs.io/en/dev/)
+> The sentiment property returns a named tuple of the form Sentiment(polarity, subjectivity).
+> The **polarity** score is a float within the range [-1.0, 1.0]. 
+> The **subjectivity** is a float within the range [0.0, 1.0] where 0.0 is very objective and 1.0 is very subjective.
 
 ---
 
