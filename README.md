@@ -15,6 +15,7 @@ Natural Language Processing with python
 
 * Επιστρέφει list με tuples, π.χ.:
 > [('blood', 171), ('battle', 160), ('bone', 152), ('body', 133), ('best', 129), ('british', 114), ('bones', 101), ('bridge', 80), ('back', 75), ('beginning', 55)]
+> 
 > [('bone', 152), ('body', 133), ('bones', 101), ('boy', 38), ('bottom', 30), ('box', 23), ('borzois', 14), ('book', 13), ('bodies', 12), ('bottle', 11)]
 
 ---
